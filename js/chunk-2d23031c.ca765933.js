@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d23031c"],{eaf0:function(n){n.exports=JSON.parse('{"C":{"D":0.01,"E":200000},"Cr":{"D":0.0037,"E":267400},"Mo":{"D":0.00036,"E":240000},"V":{"D":0.0124,"E":274000}}')}}]);
+//# sourceMappingURL=chunk-2d23031c.ca765933.js.map
